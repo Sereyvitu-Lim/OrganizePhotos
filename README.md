@@ -17,6 +17,7 @@ Features
   Organize Photos application also provides a search feature which allows user to search for a specific category conveniently.
   
 Reference and Credits
+
   ResNet50: https://keras.io/applications/
   SVProgressHUD: https://github.com/SVProgressHUD/SVProgressHUD
   
