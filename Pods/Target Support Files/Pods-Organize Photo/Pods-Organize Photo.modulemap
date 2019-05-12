@@ -1,0 +1,6 @@
+framework module Pods_Organize_Photo {
+  umbrella header "Pods-Organize Photo-umbrella.h"
+
+  export *
+  module * { export * }
+}
